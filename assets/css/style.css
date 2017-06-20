@@ -286,21 +286,21 @@ hr {
 @media screen and (max-width: 768px) {
 	.headerContent {
 	margin: 0 auto;
-	width: 730px;
+	width: 90%;
 	height: 90px;
 	background-color: #fff;
 	}
 	.content {	
 	margin: 25px auto;
 	flex: 1 0 auto;
-	width: 730px;
+	width: 90%;
 	}
 	.contentMain {
 	margin-right: 40px;
 	line-height: 1.5em;
 	padding-bottom: 20px;
 	float: left;
-	width: 730px;
+	width: 100%;
 	}
 	h2 {
 	text-align: left;
@@ -316,17 +316,17 @@ hr {
 	}
 	.contentSide {
 	margin: 25px auto;
-	width: 730px;
+	width: 100%;
 	display: inline-block;
 	}
 	.profilePic {
 	float: left;
-	width: 335px;
+	width: 50%;
 	margin-right: 25px;
 	margin-bottom: 10px;
 	}
 	.portfolio-thumb {
-	width: 315px;
+	width: 46%;
 	height: 235px;
 	background-position: center;
 	background-size: cover;
@@ -369,14 +369,14 @@ hr {
 	.content {	
 	margin: 25px auto;
 	flex: 1 0 auto;
-	width: 600px;
+	width: 90%;
 	}
 	.contentMain {
-	margin-right: 40px;
+	margin: 0 auto;
 	line-height: 1.5em;
 	padding-bottom: 20px;
 	float: left;
-	width: 600px;
+	width: 100%;
 	}
 	h2 {
 	text-align: left;
@@ -392,17 +392,17 @@ hr {
 	}
 	.contentSide {
 	margin: 25px auto;
-	width: 600px;
+	width: 100%;
 	display: inline-block;
 	}
 	.profilePic {
 	float: left;
-	width: 540px;
+	width: 100%;
 	margin-right: 25px;
 	margin-bottom: 10px;
 	}
 	.portfolio-thumb {
-	width: 540px;
+	width: 97%;
 	height: 400px;
 	background-position: center;
 	background-size: cover;
